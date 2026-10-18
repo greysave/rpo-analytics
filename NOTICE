@@ -1,0 +1,13 @@
+rpo-analytics
+Copyright 2026 Greysave contributors
+
+This project is an independent, unofficial, clean-room work. It is NOT
+affiliated with, endorsed by, sponsored by, or supported by Cohesity, Inc. or
+any other data-protection vendor. All product and company names are the
+property of their respective owners and are mentioned here only to state the
+absence of any affiliation.
+
+It uses an invented, generic data-protection data contract and seeded
+synthetic data only. See PROVENANCE.md.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
