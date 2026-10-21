@@ -101,6 +101,10 @@ another and none depends on another at install time.
 
 Ingests its own `rpo-analytics/1` JSON document. Feeding it from `protectionsim` runs or `backup-fleet-async` output would need a converter that does not exist yet.
 
+## Portfolio case study
+
+See [the verified synthetic case study](CASE_STUDY.md) for a fictional operational scenario, reproducible commands and captured results.
+
 ## Development
 
 ```bash
